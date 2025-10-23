@@ -1,0 +1,82 @@
+FREELANCE SERVICE AGREEMENT
+
+This Freelance Service Agreement ("Agreement") is entered into as of January 1, 2024 ("Effective Date") by and between:
+
+CLIENT: TechCorp Inc., a Delaware corporation
+ADDRESS: 123 Tech Street, San Francisco, CA 94105
+
+FREELANCER: John Doe, an individual
+ADDRESS: 456 Freelance Ave, Austin, TX 78701
+
+1. SERVICES
+The Freelancer agrees to provide web development services as specified in the attached Statement of Work. Services include but are not limited to: website design, front-end development, and basic maintenance.
+
+2. PAYMENT TERMS
+Client agrees to pay Freelancer at a rate of $75 per hour. Payment shall be made within 90 days of invoice date. All invoices must be submitted by the last day of each month for work performed during that month.
+
+Late payments will not incur interest charges. Client reserves the right to withhold payment if work does not meet specifications.
+
+3. INTELLECTUAL PROPERTY
+All work product, including but not limited to designs, code, documentation, and any derivative works, shall become the exclusive property of the Client upon creation. Freelancer hereby assigns all rights, title, and interest in the work product to Client.
+
+Freelancer waives all moral rights to the work product and agrees not to challenge Client's ownership.
+
+4. LIABILITY AND INDEMNIFICATION
+Freelancer assumes full liability for any claims, damages, or losses arising from the services provided under this Agreement, including but not limited to:
+- Professional errors or omissions
+- Copyright infringement claims
+- Data breaches or security issues
+- Any third-party claims related to the work
+
+Freelancer agrees to indemnify and hold harmless Client from any and all claims, regardless of Freelancer's fault or negligence.
+
+5. CONFIDENTIALITY
+Freelancer agrees to maintain confidentiality of all Client information for a period of 5 years following termination of this Agreement.
+
+6. TERMINATION
+Either party may terminate this Agreement with 7 days written notice. Upon termination, Client shall only pay for work completed and accepted. Client is not obligated to pay for work in progress.
+
+7. WARRANTY
+Freelancer warrants that all work will be:
+- Original and not infringing on third-party rights
+- Free from defects for a period of 90 days
+- Performed in a professional manner
+
+Freelancer provides no other warranties, express or implied, including warranties of merchantability or fitness for a particular purpose.
+
+8. DISPUTE RESOLUTION
+Any disputes shall be resolved through binding arbitration in San Francisco, California. Each party shall bear their own legal costs.
+
+9. MISCELLANEOUS
+This Agreement constitutes the entire agreement between the parties. Any modifications must be in writing and signed by both parties.
+
+This Agreement shall be governed by the laws of the State of California.
+
+
+CLIENT: TechCorp Inc.
+
+By: _______________________
+Name: Sarah Johnson
+Title: VP of Engineering
+Date: _____________________
+
+
+FREELANCER:
+
+By: _______________________
+Name: John Doe
+Date: _____________________
+
+
+---
+This is a sample contract for demonstration purposes only.
+It intentionally contains several risky clauses that ClauseWise would detect:
+- Payment Risk: 90-day payment terms is very long
+- Payment Risk: No interest on late payments
+- Payment Risk: Client can withhold payment subjectively
+- Liability Risk: Unlimited liability for the freelancer
+- Liability Risk: Broad indemnification clause
+- IP Risk: Freelancer loses all rights to their work
+- IP Risk: Waiver of moral rights
+- Termination Risk: Only 7 days notice required
+- Termination Risk: No payment for work in progress
